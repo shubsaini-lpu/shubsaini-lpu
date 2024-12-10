@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Shub!
 
-<!--
-**shubsaini-lpu/shubsaini-lpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I’m a **full-stack developer** with a passion for creating efficient, scalable, and user-friendly applications. 🚀  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+- **🎓 Education**: 3rd Year B.Tech Student  
+- **💻 Tech Stack**:  
+  - **Frontend**: React, Next.js, Tailwind CSS  
+  - **Backend**: Node.js
+  - **Database**: Prisma, Drizzle ORM  
+  - **Other Tools**: Docker, Kubernetes, GitHub Actions  
+
+---
+
+## 🌐 What I’m Working On
+
+- **🤖 AI-Powered Apps**: Building applications using Gen AI and modern frameworks.  
+- **👨‍💻 Projects**:  
+  - A **course-selling platform**.  
+
+
+Feel free to explore my repositories and reach out if you want to collaborate! 💡
